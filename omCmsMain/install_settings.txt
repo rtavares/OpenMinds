@@ -1,0 +1,18 @@
+- Create your Django project
+- Add omCmsMain to installed apps
+- Add omCmsMain view to  [yourPorject]/urls.py
+
+- Configure Static root settings
+- Configure Media root settings
+
+- Configure allowed hosts
+- Turn debug Off
+
+Email Settings for form processing:
+
+EMAIL_USE_TLS = True
+EMAIL_HOST = ''
+EMAIL_PORT = 
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
+
